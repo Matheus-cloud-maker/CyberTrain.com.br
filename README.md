@@ -1,0 +1,17 @@
+Site de Projeto Integrador do Curso de Operador de Sistemas Computacionaios em Redes
+praticado no Firjan Senai de São Gonçalo, Rio de Janeiro, Brasil
+um site para ajudar pessoal de empresas que fazem parte do T.i
+ele é um site de Treinamento em Arquitetura de Redes e Segurança da Informação
+onde contém uma tela de Login e Cadrasto, tela de  Dashboard para ver o progresso,
+tela de Conteúdos, tela de Simulações, tela de Desempenho, tela de Recursos
+e uma tela de FeedBack.
+Autores da Ideia do Site:
+Ághata Cristina Costa Barros
+Anna Beatriz Rocha dos Santos
+Maria Eduarda de Lima Malta
+Matheus Fernandes da Silva
+Yasmin Neves de Oliveira Cordeiro
+Nosso Site e Equipe:
+CyberTrain criada em 11/08/2025
+Projeto Aprovado pelo instrutor:
+Éric Jordão
