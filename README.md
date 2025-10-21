@@ -14,4 +14,4 @@ Yasmin Neves de Oliveira Cordeiro
 Nosso Site e Equipe:
 CyberTrain criada em 11/08/2025
 Projeto Aprovado pelo instrutor:
-Éric Jordão
+Éric Jordão Carvalho de Souza
